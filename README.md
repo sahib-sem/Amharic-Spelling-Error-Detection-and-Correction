@@ -37,7 +37,3 @@ Two datasets:
 ## Backend
 
 Fastapi backend with endpoint `/spellcheck/suggestion` for spellcheck suggestions.
-
-## Frontend
-
-[Insert frontend description or image here]
