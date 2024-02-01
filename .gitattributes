@@ -1,0 +1,2 @@
+Data_and_model_pth/next_words.pth filter=lfs diff=lfs merge=lfs -text
+Data_and_model_pth/ filter=lfs diff=lfs merge=lfs -text
