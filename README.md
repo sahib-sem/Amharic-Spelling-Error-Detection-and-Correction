@@ -40,6 +40,6 @@ Two datasets:
 Fastapi backend with endpoint `/spellcheck/suggestion` for spellcheck suggestions.
 
 ## Resources 
-1 **Project Report paper** - [Report]([url](https://docs.google.com/document/d/1rY-6eadGo0YQirfjvy3KpXqBJMZiR6YyQQgPDs_afVk/edit))
-2 **Project Presentation Slide** - [Presentation slide](https://www.canva.com/design/DAF7doqkeMk/qrtaDzMT9kJCNP9pvEirJg/edit)
+1 **Project Report paper** - [Report](https://docs.google.com/document/d/1rY-6eadGo0YQirfjvy3KpXqBJMZiR6YyQQgPDs_afVk/edit).
+2 **Project Presentation Slide** - [Presentation slide](https://www.canva.com/design/DAF7doqkeMk/qrtaDzMT9kJCNP9pvEirJg/edit).
 
