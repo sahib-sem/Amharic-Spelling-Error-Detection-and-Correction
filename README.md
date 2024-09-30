@@ -43,5 +43,5 @@ Fastapi backend with endpoint `/spellcheck/suggestion` for spellcheck suggestion
 
 1 **Project Report paper** - [Report](https://docs.google.com/document/d/1rY-6eadGo0YQirfjvy3KpXqBJMZiR6YyQQgPDs_afVk/edit).
 
-2 **Project Presentation Slide** - [Presentation slide](https://www.canva.com/design/DAF7doqkeMk/qrtaDzMT9kJCNP9pvEirJg/edit).
+2 **Project Presentation Slide** - [Presentation slide](https://www.canva.com/design/DAGSQzNXZn0/Tmn4qGjmOgNvF3y6ayiLWQ/edit?utm_content=DAGSQzNXZn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
